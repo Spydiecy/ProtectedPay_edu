@@ -1,6 +1,6 @@
-# ProtectedPay v3: The Ultimate Payment Solution for Open Campus EduChain
+# ProtectedPay: The Ultimate Payment Solution for Open Campus EduChain
 
-ProtectedPay v3 is a revolutionary DeFi platform built on the Open Campus EduChain, designed to be the best way for all transactions within the educational ecosystem. With its advanced features and secure architecture, ProtectedPay v3 provides a seamless, reliable, and user-friendly experience for students, faculty, and staff to manage their financial activities.
+ProtectedPay is a revolutionary DeFi platform built on the Open Campus EduChain, designed to be the best way for all transactions within the educational ecosystem. With its advanced features and secure architecture, ProtectedPay v3 provides a seamless, reliable, and user-friendly experience for students, faculty, and staff to manage their financial activities.
 
 ![image](https://github.com/user-attachments/assets/4c9042c5-7a6d-46de-a779-2b6a4d77850f)
 
