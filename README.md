@@ -1,18 +1,20 @@
-# ProtectedPay
+# ProtectedPay v3: The Ultimate Payment Solution for Open Campus EduChain
 
-ProtectedPay is a comprehensive DeFi platform on the NeoX blockchain that provides secure transfers, group payments, and smart savings features. Built with advanced security and user experience in mind, it offers multiple ways to manage and protect your crypto assets.
+ProtectedPay v3 is a revolutionary DeFi platform built on the Open Campus EduChain, designed to be the best way for all transactions within the educational ecosystem. With its advanced features and secure architecture, ProtectedPay v3 provides a seamless, reliable, and user-friendly experience for students, faculty, and staff to manage their financial activities.
 
-![image](https://github.com/user-attachments/assets/ea8a2e94-dad2-48cd-af7f-88e08d0e37a8)
+![image](https://github.com/user-attachments/assets/4c9042c5-7a6d-46de-a779-2b6a4d77850f)
 
 ## Key Features
 
 ### Secure Transfers
+![image](https://github.com/user-attachments/assets/265a98e1-ba4c-4860-8dcb-7e5ecd9d3e52)
 - Protected transfers with funds held in smart contracts until claimed
 - Send to usernames or wallet addresses
 - Add remarks to track transfer purposes
 - Easy refunds for unclaimed transfers
 
 ### Group Payments
+![image](https://github.com/user-attachments/assets/175a8cee-afdf-4676-9271-01109722757c)
 - Create group payment pools
 - Automatic splitting of bills and expenses
 - Real-time progress tracking
@@ -20,45 +22,29 @@ ProtectedPay is a comprehensive DeFi platform on the NeoX blockchain that provid
 - Perfect for shared expenses and team payments
 
 ### Savings Pots
+![image](https://github.com/user-attachments/assets/945911fd-d346-4178-9bc4-56ec5d54d9b4)
 - Create personal savings goals
 - Track progress towards targets
 - Contribute anytime
 - Break pots when needed
 - Set remarks for saving purposes
 
+### Rewards and Incentives
+- Earn ProtectedPay Reward Points (PPYR) for various activities
+- Referral program to encourage platform growth
+- Cashback tiers based on transaction volume
+- Redeem rewards for exclusive benefits within the ecosystem
+
 ### User Features
 - Optional username registration
 - Comprehensive transaction history
 - Real-time balance tracking
 - Detailed activity dashboard
-- Progress visualization
-
-## How It Works
-
-### Secure Transfers
-![image](https://github.com/user-attachments/assets/0522d7ca-f364-40f2-a071-71ad63abc72e)
-1. Send funds to username or address
-2. Add remarks for context
-3. Recipient claims funds
-4. Option to refund if unclaimed
-
-### Group Payments
-![image](https://github.com/user-attachments/assets/43f78c9e-ecb2-47d4-8bec-6e506fc3ad29)
-1. Create payment with target amount
-2. Set number of participants
-3. Members contribute their share
-4. Automatic distribution when complete
-
-### Savings Pots
-![image](https://github.com/user-attachments/assets/26fcdbc5-a6d3-4e48-84d9-ba6ac28613ac)
-1. Create pot with target amount
-2. Add funds progressively
-3. Track savings progress
-4. Break pot to withdraw funds
+- Progress visualiza
 
 ## User Interface
 
-![image](https://github.com/user-attachments/assets/39e544b8-92a4-4d72-b04e-668212a2b321)
+![image](https://github.com/user-attachments/assets/36f024cd-1843-4f14-ac75-7ea15b66a98e)
 
 ### Modern Design
 - Dark theme with neon accents
@@ -89,9 +75,10 @@ Watch ProtectedPay in action:
 
 ## Smart Contract
 
-Deployed on NeoX:
-- Contract Address: 0xF93132d75c20EfeD556EC2Bc5aC777750665D3a9
-- Verified on NeoX Explorer
+Deployed on Open Campus EduChain:
+- Contract Address: 0x03c4fb7563e593ca0625C1c64959AC56081785cE
+- v3 Contract Address: 0x54b82e4A3495303C60121bEcdaF5F4d7FCffa80e
+- Verified on EduChain Explorer
 
 ## Support
 
