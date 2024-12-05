@@ -7,17 +7,12 @@ import {
   ArrowDownIcon,
   ArrowLeftIcon,
   ChatBubbleBottomCenterTextIcon,
-  UserCircleIcon,
-  WalletIcon,
-  InformationCircleIcon,
   ArrowPathIcon,
   CheckCircleIcon,
   ClockIcon,
-  XCircleIcon,
-  HashtagIcon
+  XCircleIcon
 } from '@heroicons/react/24/outline'
 import { useWallet } from '@/context/WalletContext'
-import { ethers } from 'ethers'
 import { 
   sendToAddress,
   sendToUsername,
@@ -283,7 +278,11 @@ export default function TransferPage() {
         return (
           <form onSubmit={(e) => {
             e.preventDefault();
-            activeTab === TransferTabs.CLAIM ? handleClaim(transferId) : handleRefund(transferId);
+            if (activeTab === TransferTabs.CLAIM) {
+              handleClaim(transferId);
+            } else {
+              handleRefund(transferId);
+            }
           }} className="space-y-6">
             <div>
               <label className="mb-2 text-green-400 font-medium">
