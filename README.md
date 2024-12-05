@@ -6,14 +6,14 @@ ProtectedPay v3 is a revolutionary DeFi platform built on the Open Campus EduCha
 
 ## Key Features
 
-### Secure Transfers
+### 1. Secure Transfers
 ![image](https://github.com/user-attachments/assets/265a98e1-ba4c-4860-8dcb-7e5ecd9d3e52)
 - Protected transfers with funds held in smart contracts until claimed
 - Send to usernames or wallet addresses
 - Add remarks to track transfer purposes
 - Easy refunds for unclaimed transfers
 
-### Group Payments
+### 2. Group Payments
 ![image](https://github.com/user-attachments/assets/175a8cee-afdf-4676-9271-01109722757c)
 - Create group payment pools
 - Automatic splitting of bills and expenses
@@ -21,7 +21,7 @@ ProtectedPay v3 is a revolutionary DeFi platform built on the Open Campus EduCha
 - Instant distribution when target is met
 - Perfect for shared expenses and team payments
 
-### Savings Pots
+### 3. Savings Pots
 ![image](https://github.com/user-attachments/assets/945911fd-d346-4178-9bc4-56ec5d54d9b4)
 - Create personal savings goals
 - Track progress towards targets
@@ -29,13 +29,13 @@ ProtectedPay v3 is a revolutionary DeFi platform built on the Open Campus EduCha
 - Break pots when needed
 - Set remarks for saving purposes
 
-### Rewards and Incentives
+### 4. Rewards and Incentives
 - Earn ProtectedPay Reward Points (PPYR) for various activities
 - Referral program to encourage platform growth
 - Cashback tiers based on transaction volume
 - Redeem rewards for exclusive benefits within the ecosystem
 
-### User Features
+### 5. User Features
 - Optional username registration
 - Comprehensive transaction history
 - Real-time balance tracking
