@@ -88,4 +88,4 @@ For questions or issues:
 
 ---
 
-ProtectedPay - Secure Transfers, Group Payments, and Smart Savings on NeoX
+ProtectedPay - Secure Transfers, Group Payments, and Smart Savings on Open Campus educhain
